@@ -86,7 +86,7 @@
 
 #### **무더위쉼터지도**
 <div align="center">
-  <img src="./image/무더위쉼터지도.png" alt="무더위 쉼터 지도" />
+  <img src="./image/무더위쉼터지도.png" alt="무더위 쉼터 지도" width = "200" />
 </div>
 <br>
 
@@ -99,7 +99,7 @@
 
 #### **공유우산지도**
 <div align="center">
-  <img src="./image/공유우산지도.png" alt="공유 우산 지도" />
+  <img src="./image/공유우산지도.png" alt="공유 우산 지도" width="200" />
 </div><br>
 
 - 열섬으로 인한 불규칙적인 날씨, 뜨거운 햇빛으로부터 피해예방
@@ -109,8 +109,8 @@
 
 #### **커뮤니티**
 <div align="center">
-  <img src="./image/커뮤니티1.png" alt="커뮤니티" />
-  <img src="./image/커뮤니티2.png" alt="커뮤니티" />
+  <img src="./image/커뮤니티1.png" alt="커뮤니티" width="200" />
+  <img src="./image/커뮤니티2.png" alt="커뮤니티" width="200" />
 </div>
 <br>
 
@@ -122,7 +122,7 @@
 
 #### **살수차투표**
 <div align="center">
-  <img src="./image/살수차투표.png" alt="살수차 투표표" />
+  <img src="./image/살수차투표.png" alt="살수차 투표표" width="200" />
 </div>
 <br>
 
