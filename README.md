@@ -3,7 +3,8 @@
 <br><br>
 
 <div align="center">
-<img width="259" alt="스크린샷 2023-12-20 오전 11 23 01" src="https://github.com/ffe4el/HeatIsland-APP/assets/93892724/ba8e12d9-2b7c-4fa5-a43d-f2f2c9a12716"></div>
+  <img src="./image/쓰랑께소개화면.png" alt="쓰랑께 소개 화면" />
+</div>
 
 ### ⏰ Develop Period
 ---
@@ -72,7 +73,8 @@
 ---
 #### **도시열섬지도**
 <div align="center">
-<img width="394" alt="스크린샷 2023-12-20 오후 3 35 36" src="https://github.com/ffe4el/HeatIsland-APP/assets/93892724/78f64844-b3d6-4fdc-bf64-91cd692a0861"></div>
+  <img src="./image/도시열섬지도.png" alt="도시 열섬 지도" />
+</div>
 <br>
 
 - SVG(Scalable Vector Graphics): 각 서울시 행쟁구 path 지정
@@ -83,7 +85,9 @@
 <br>
 
 #### **무더위쉼터지도**
-<div align="center"><img width="200" alt="image" src="https://github.com/ffe4el/HeatIsland-APP/assets/93892724/4555303d-99dd-4d3c-826b-992b5a22b46f"></div>
+<div align="center">
+  <img src="./image/무더위쉼터지도.png" alt="무더위 쉼터 지도" />
+</div>
 <br>
 
 - 열섬피해를 막기 위해 무더위 쉼터를 사용자에게 정보 제공
@@ -94,8 +98,9 @@
 <br>
 
 #### **공유우산지도**
-<div align="center"><img width="200" alt="image" src="https://github.com/ffe4el/HeatIsland-APP/assets/93892724/bd1a982b-ebf2-4cd7-82a5-c30382257702"></div>
-<br>
+<div align="center">
+  <img src="./image/공유우산지도.png" alt="공유 우산 지도" />
+</div><br>
 
 - 열섬으로 인한 불규칙적인 날씨, 뜨거운 햇빛으로부터 피해예방
 - 사용자 위치 기준 우산통 배치 및 우산 개수 수정 가능
@@ -103,8 +108,10 @@
 <br>
 
 #### **커뮤니티**
-<div align="center"><img width="200" alt="image" src="https://github.com/ffe4el/HeatIsland-APP/assets/93892724/b60fc066-80eb-457f-8cea-856827bf2e02">
-<img width="200" alt="image" src="https://github.com/ffe4el/HeatIsland-APP/assets/93892724/8c24545e-9778-4d57-b77b-30ce439b641a"></div>
+<div align="center">
+  <img src="./image/커뮤니티1.png" alt="커뮤니티" />
+  <img src="./image/커뮤니티2.png" alt="커뮤니티" />
+</div>
 <br>
 
 - 해당 지역구의 카테고리별로 게시물 **작성** 가능, 게시물 **삭제** 가능
@@ -114,7 +121,9 @@
 <br>
 
 #### **살수차투표**
-<div align="center"><img width="200" alt="image" src="https://github.com/ffe4el/HeatIsland-APP/assets/93892724/f80818e9-a0ce-4257-a584-f442cf8e7172"></div>
+<div align="center">
+  <img src="./image/살수차투표.png" alt="살수차 투표표" />
+</div>
 <br>
 
 - 해당 지역구 사람들의 투표로 살수차 배치 고려
