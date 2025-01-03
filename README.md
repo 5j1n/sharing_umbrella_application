@@ -77,7 +77,7 @@
 </div>
 <br>
 
-- SVG(Scalable Vector Graphics): 각 서울시 행쟁구 path 지정
+- SVG(Scalable Vector Graphics): 각 서울시 행정구 path 지정
 - Spinner 를 사용하여 “온도", “습도", “열섬" 지도 표현
 - 08.14 ~ 08.20 일 데이터 CSV  데이터 사용!
 - 열섬 정의 기준은 평균 온도/습도 + 각 자치구 유동인구 고려
