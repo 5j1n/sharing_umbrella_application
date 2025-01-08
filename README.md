@@ -98,6 +98,7 @@
 #### **무더위쉼터지도**
 <div align="center">
   <img src="./image/무더위쉼터지도.png" alt="무더위 쉼터 지도" width = "200" />
+  <img src="./image/성동구.png" alt="성동구 검색 화면" width="200" />
 </div>
 <br>
 
@@ -109,9 +110,11 @@
 <br>
 
 #### **공유우산지도 (본인 업무 담당)**
-<div align="center">
+<div align="left">
   <img src="./image/공유우산지도.png" alt="공유 우산 지도" width="200" />
-</div><br>
+  <img src="./image/우산삭제.png" alt="우산 삭제 예시 화면" width="700" />
+</div>
+
 
 - 열섬으로 인한 불규칙적인 날씨, 뜨거운 햇빛으로부터 피해예방
 - 사용자 위치 **(서울 시로 가정하였기 때문에 임의로 설정)** 기준 우산통 배치 및 우산 개수 수정 가능
