@@ -3,7 +3,8 @@
 <br><br>
 
 <div align="center">
-  <img src="./image/쓰랑께소개화면.png" alt="쓰랑께 소개 화면" />
+  <img src="./image/IMG_1985-_online-video-cutter.com_.gif" alt="쓰랑께 소개 영상" width = "300"/>
+  <img src="./image/쓰랑께소개화면.png" alt="쓰랑께 소개 화면" width = "500" />
 </div>
 
 ---
