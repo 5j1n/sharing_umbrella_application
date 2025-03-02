@@ -20,7 +20,7 @@
 
 ### ⏰ Develop Period
 ---
-- November 2023 ~ December 2023
+- Octover 2023 ~ December 2023
 <br>
 
 ### 🛠️ Development Environment
