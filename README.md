@@ -110,7 +110,7 @@
 - 서울시 무더위 쉼터 open API 사용 및 데이터 parse 함수를 이용하여 전처리
 <br>
 
-#### **공유우산지도 (본인 업무 담당)**
+#### **📌✨ 공유우산지도 (본인 업무 담당) ☂️** 
 <div align="left">
   <img src="./image/공유우산지도.png" alt="공유 우산 지도" width="200" />
   <img src="./image/우산삭제.png" alt="우산 삭제 예시 화면" width="700" />
